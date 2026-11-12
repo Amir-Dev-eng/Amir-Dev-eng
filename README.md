@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Amir Khan Niazai</h1>
 
 <h3 align="center">
-  Computer Science Graduate | Web Developer | Information Systems
+  Computer Science Graduate | Web Developer | Aspiring Data Scientist
 </h3>
 
 <p align="center">
